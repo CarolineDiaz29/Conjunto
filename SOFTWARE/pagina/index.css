@@ -1,0 +1,48 @@
+
+{margin:0px;
+padding:0px;
+}
+body{background:url(CONJUNTO.JPG);#2859D4;
+  background-position: side ;}
+
+form{background: #A3C7EC;
+width:360px;
+border:2px solid #145DDB;
+border-radius:3px;
+-moz-radius:3px;
+-webkit-radius:3px;
+-o-linear-radius:3px;
+-linear-radius:3px;
+box-shadow:inset 0 0 10px #145DDB;
+margin:10px auto;
+}
+form input{width:280px;
+height:35px;
+padding:opx 10px;
+margin:10px 30px; 
+color:#2859D4;
+text-aling:center;}
+
+form h2{width:280px;
+height:35px;
+padding:opx 10px;
+margin:10px 30px; 
+color:#2859D4;
+text-aling:center;}
+
+form div{width:280px;
+height:35px;
+padding:opx 10px;
+margin:10px 30px; 
+color:#2859D4;
+text-aling:center;}
+
+form button{width:140px;
+height:20px;
+padding:opx 10px;
+margin:10px 30px; 
+color:#1B86F3;
+text-aling:center;
+}
+
+</style>
